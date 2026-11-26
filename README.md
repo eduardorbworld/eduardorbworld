@@ -47,7 +47,7 @@ A personal artificial intelligence system designed around an integrated workspac
 | Project | Description |
 | --- | --- |
 | [WORLD AI](./projects/world-ai.md) | Personal AI system — in development |
-| Insta Auto Extension | Seguidores Locais v1.1.2 — free distribution planned |
+| [Insta Auto Extension](https://github.com/eduardorbworld/insta-auto-extension) | Seguidores Locais v1.1.2 — [Download ZIP](https://github.com/eduardorbworld/insta-auto-extension/archive/refs/heads/main.zip) |
 | Insta Auto SaaS | Instagram management software — release pending |
 | [Rolezin Frontin](https://rolezinfrontin.lovable.app/) | Local tourism and digital discovery — client project |
 | [Ribeiro Marketing](https://www.instagram.com/ribeiromarketingltda/) | Digital solutions and web projects |
