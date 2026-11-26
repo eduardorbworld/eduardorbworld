@@ -18,14 +18,14 @@ Based in Rio de Janeiro, Brazil, I develop and explore practical software, AI co
 
 | Project | Status | Explore |
 | --- | --- | --- |
-| **Seguidores Locais / Insta Auto Extension** | Available · v1.1.2 | [Product page](https://eduardorbworld.github.io/eduardorbworld/seguidores-locais.html) · [Repository](https://github.com/eduardorbworld/insta-auto-extension) |
+| **Não Seguidores Free** | Available · v1.1.2 | [Product page](https://eduardorbworld.github.io/eduardorbworld/seguidores-locais.html) · [Repository](https://github.com/eduardorbworld/insta-auto-extension) |
 | **WORLD AI** | Research and development | [Project page](https://eduardorbworld.github.io/eduardorbworld/world-ai.html) · [Roadmap](./projects/world-ai.md) |
 | **Insta Auto SaaS / Agenda Ribeiro** | Public edition planned | [Project page](https://eduardorbworld.github.io/eduardorbworld/insta-auto-saas.html) |
 | **Rolezin Frontin** | Client website | [Live demonstration](https://rolezinfrontin.lovable.app/) |
 
 ### Available software
 
-**Seguidores Locais** — independent browser extension for local analysis of Instagram exports and profile review.
+**Não Seguidores Free** — free browser extension for analyzing and automatically unfollowing non-followers based on Instagram data exports.
 
 [Download v1.1.2 (fixed revision)](https://github.com/eduardorbworld/insta-auto-extension/archive/36d71e2f6ccd3a015b62435ec943cadaa1e36b24.zip) · [Installation guide](https://github.com/eduardorbworld/insta-auto-extension/blob/main/INSTALLATION.md) · [Support](https://github.com/eduardorbworld/insta-auto-extension/issues)
 
@@ -40,7 +40,7 @@ Python · TypeScript · JavaScript · HTML · CSS · React · Tailwind CSS · Su
 Desenvolvo e exploro soluções digitais, ferramentas de software e conceitos de inteligência artificial no Rio de Janeiro, Brasil, sob a identidade EDUARDORB WORLD.
 
 - [Portfólio profissional](https://eduardorbworld.github.io/eduardorbworld/) — disponível em português e inglês.
-- [Seguidores Locais](https://eduardorbworld.github.io/eduardorbworld/seguidores-locais.html) — extensão gratuita conforme sua licença, versão 1.1.2.
+- [Não Seguidores Free](https://eduardorbworld.github.io/eduardorbworld/seguidores-locais.html) — extensão gratuita conforme sua licença, versão 1.1.2.
 - [WORLD AI](https://eduardorbworld.github.io/eduardorbworld/world-ai.html) — projeto de inteligência artificial pessoal em desenvolvimento.
 - [Agenda Ribeiro](https://eduardorbworld.github.io/eduardorbworld/insta-auto-saas.html) — projeto de planejamento editorial com edição pública prevista, ainda sem download.
 - [Rolezin Frontin](https://rolezinfrontin.lovable.app/) — demonstração pública de projeto comercial.
