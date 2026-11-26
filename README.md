@@ -8,6 +8,8 @@
 
 </div>
 
+**[Explore my portfolio →](https://eduardorbworld.github.io/eduardorbworld/)**
+
 ## About me
 
 Based in Rio de Janeiro, Brazil, I build and explore AI-powered tools, web experiences and automation. My focus is turning ideas into practical digital solutions while continuously learning and experimenting with new technologies.
@@ -40,11 +42,13 @@ A personal artificial intelligence system designed around an integrated workspac
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-0d1117?style=for-the-badge&logo=openai&logoColor=38BDF8)
 
-## Featured projects
+## EDUARDORB WORLD — Projects & Downloads
 
 | Project | Description |
 | --- | --- |
 | [WORLD AI](./projects/world-ai.md) | Personal AI system — in development |
+| Insta Auto Extension | Seguidores Locais v1.1.2 — free distribution planned |
+| Insta Auto SaaS | Instagram management software — release pending |
 | [Rolezin Frontin](https://rolezinfrontin.lovable.app/) | Local tourism and digital discovery — client project |
 | [Ribeiro Marketing](https://www.instagram.com/ribeiromarketingltda/) | Digital solutions and web projects |
 
