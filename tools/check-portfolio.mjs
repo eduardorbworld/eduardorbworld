@@ -3,7 +3,7 @@ import path from 'node:path';
 import {spawnSync} from 'node:child_process';
 const root=path.resolve('docs');
 const base='https://eduardorbworld.github.io/eduardorbworld/';
-const pages=['index.html','seguidores-locais.html','world-ai.html','insta-auto-saas.html','404.html'];
+const pages=['index.html','seguidores-locais.html','world-ai.html','insta-auto-saas.html','404.html','novidades.html'];
 let errors=0;
 function check(ok,message){if(!ok){console.error(message);errors++}}
 const documents=new Map();
@@ -45,4 +45,4 @@ check(documents.get('index.html')?.html.includes('id="lang-toggle"'),'Missing la
 const sitemap=fs.existsSync(path.join(root,'sitemap.xml'))?fs.readFileSync(path.join(root,'sitemap.xml'),'utf8'):'';
 for(const file of pages.filter(f=>f!=='404.html'))check(sitemap.includes('<loc>'+base+(file==='index.html'?'':file)+'</loc>'),'Missing sitemap entry '+file);
 check(!sitemap.includes('404.html'),'Error page included in sitemap');
-if(errors)process.exitCode=1;else console.log('Static checks passed for all five HTML pages. Browser validation still required.');
+if(errors)process.exitCode=1;else console.log('Static checks passed for all six HTML pages. Browser validation still required.');
