@@ -18,6 +18,8 @@ Based in Rio de Janeiro, Brazil, I build and explore AI-powered tools, web exper
 
 A personal artificial intelligence system designed around an integrated workspace, voice interaction, memory and automation.
 
+**[Explore the project overview and roadmap →](./projects/world-ai.md)**
+
 | Area | Development focus |
 | --- | --- |
 | Intelligence | AI-assisted workflows and contextual memory |
@@ -33,13 +35,16 @@ A personal artificial intelligence system designed around an integrated workspac
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=38BDF8)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-0d1117?style=for-the-badge&logo=openai&logoColor=38BDF8)
 
 ## Featured projects
 
 | Project | Description |
 | --- | --- |
-| WORLD AI | Personal AI system — in development |
+| [WORLD AI](./projects/world-ai.md) | Personal AI system — in development |
 | [Rolezin Frontin](https://github.com/eduardorbworld/rolezinfrontin) | Local tourism and digital discovery |
 | [Ribeiro Marketing](https://www.instagram.com/ribeiromarketingltda/) | Digital solutions and web projects |
 
