@@ -21,6 +21,7 @@ Based in Rio de Janeiro, Brazil, I develop and explore practical software, AI co
 | **Não Seguidores Free** | Available · v1.1.2 | [Product page](https://eduardorbworld.github.io/eduardorbworld/seguidores-locais.html) · [Repository](https://github.com/eduardorbworld/insta-auto-extension) |
 | **WORLD AI** | Research and development | [Project page](https://eduardorbworld.github.io/eduardorbworld/world-ai.html) · [Roadmap](./projects/world-ai.md) |
 | **Insta Auto SaaS / Agenda Automação** | Public edition planned | [Project page](https://eduardorbworld.github.io/eduardorbworld/insta-auto-saas.html) |
+| **Euro Atlas** | Private travel planning application | [Project page](https://eduardorbworld.github.io/eduardorbworld/euro-atlas.html) |
 | **Rolezin Frontin** | Client website | [Live demonstration](https://rolezinfrontin.lovable.app/) |
 
 ### Available software
@@ -43,6 +44,7 @@ Desenvolvo e exploro soluções digitais, ferramentas de software e conceitos de
 - [Não Seguidores Free](https://eduardorbworld.github.io/eduardorbworld/seguidores-locais.html) — extensão gratuita conforme sua licença, versão 1.1.2.
 - [WORLD AI](https://eduardorbworld.github.io/eduardorbworld/world-ai.html) — projeto de inteligência artificial pessoal em desenvolvimento.
 - [Agenda Automação](https://eduardorbworld.github.io/eduardorbworld/insta-auto-saas.html) — projeto de planejamento editorial com edição pública prevista, ainda sem download.
+- [Euro Atlas](https://eduardorbworld.github.io/eduardorbworld/euro-atlas.html) — plataforma privada de planejamento de viagens.
 - [Rolezin Frontin](https://rolezinfrontin.lovable.app/) — demonstração pública de projeto comercial.
 
 ## Brand & engineering standards
