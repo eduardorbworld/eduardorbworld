@@ -4,7 +4,7 @@ Intelligence · Software · Innovation
 
 | Product | Category | Status | Public access |
 |---|---|---|---|
-| Seguidores Locais / Insta Auto Extension | Browser extension | v1.1.2 | [Documentation and download](https://github.com/eduardorbworld/insta-auto-extension) |
+| Não Seguidores Free | Browser extension | v1.1.2 | [Documentation and download](https://github.com/eduardorbworld/insta-auto-extension) |
 | Insta Auto SaaS / Agenda Ribeiro | Content planning | Public edition planned | No public download yet |
 | WORLD AI | Personal AI research and development | In development | [Concept and roadmap](../projects/world-ai.md) |
 | Rolezin Frontin | Client website | Live demonstration | [Website only](https://rolezinfrontin.lovable.app/) |
