@@ -1,56 +1,49 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Eduardo Ribeiro — AI, software development and automation" width="100%"/>
+<img src="./assets/banner.svg" alt="Eduardo Ribeiro — Intelligence, Software, Innovation" width="100%"/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-EDUARDORBworld-0d1117?style=for-the-badge&logo=youtube&logoColor=FF4444)](https://www.youtube.com/@eduardorbworld)
-[![Instagram](https://img.shields.io/badge/Instagram-eduardorb1__-0d1117?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/eduardorb1_/)
-[![GitHub](https://img.shields.io/badge/GitHub-eduardorbworld-0d1117?style=for-the-badge&logo=github)](https://github.com/eduardorbworld)
+**Independent software · Artificial intelligence · Digital experiences**
+
+[Portfolio / Portfólio](https://eduardorbworld.github.io/eduardorbworld/) · [YouTube](https://www.youtube.com/@eduardorbworld) · [GitHub](https://github.com/eduardorbworld)
+
+[English](#english) · [Português](#português)
 
 </div>
 
-**[Explore my portfolio →](https://eduardorbworld.github.io/eduardorbworld/)**
+## English
 
-## About me
+Based in Rio de Janeiro, Brazil, I develop and explore practical software, AI concepts and digital experiences under the EDUARDORB WORLD identity.
 
-Based in Rio de Janeiro, Brazil, I build and explore AI-powered tools, web experiences and automation. My focus is turning ideas into practical digital solutions while continuously learning and experimenting with new technologies.
+## Projects & downloads
 
-## Current project — WORLD AI
+| Project | Status | Explore |
+| --- | --- | --- |
+| **Seguidores Locais / Insta Auto Extension** | Available · v1.1.2 | [Product page](https://eduardorbworld.github.io/eduardorbworld/seguidores-locais.html) · [Repository](https://github.com/eduardorbworld/insta-auto-extension) |
+| **WORLD AI** | Research and development | [Project page](https://eduardorbworld.github.io/eduardorbworld/world-ai.html) · [Roadmap](./projects/world-ai.md) |
+| **Insta Auto SaaS / Agenda Ribeiro** | Public edition planned | [Project page](https://eduardorbworld.github.io/eduardorbworld/insta-auto-saas.html) |
+| **Rolezin Frontin** | Client website | [Live demonstration](https://rolezinfrontin.lovable.app/) |
 
-![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-2563EB?style=flat-square)
+### Available software
 
-A personal artificial intelligence system designed around an integrated workspace, voice interaction, memory and automation.
+**Seguidores Locais** — independent browser extension for local analysis of Instagram exports and profile review.
 
-**[Explore the project overview and roadmap →](./projects/world-ai.md)**
+[Download v1.1.2 (fixed revision)](https://github.com/eduardorbworld/insta-auto-extension/archive/36d71e2f6ccd3a015b62435ec943cadaa1e36b24.zip) · [Installation guide](https://github.com/eduardorbworld/insta-auto-extension/blob/main/INSTALLATION.md) · [Support](https://github.com/eduardorbworld/insta-auto-extension/issues)
 
-| Area | Development focus |
-| --- | --- |
-| Intelligence | AI-assisted workflows and contextual memory |
-| Interface | Integrated workspace and voice interaction |
-| Automation | Task orchestration and productivity |
-| Architecture | Modular and extensible systems |
+Automated actions may cause account restrictions. Review the documentation and applicable platform rules. Independent security audit and complete third-party license review remain pending.
 
-## Technologies & interests
+### Technologies & interests
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=38BDF8)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0d1117?style=for-the-badge&logo=openai&logoColor=38BDF8)
+Python · TypeScript · JavaScript · HTML · CSS · React · Tailwind CSS · Supabase · GitHub · AI & automation
 
-## EDUARDORB WORLD — Projects & Downloads
+## Português
 
-| Project | Description |
-| --- | --- |
-| [WORLD AI](./projects/world-ai.md) | Personal AI system — in development |
-| [Insta Auto Extension](https://github.com/eduardorbworld/insta-auto-extension) | Seguidores Locais v1.1.2 — [Download ZIP](https://github.com/eduardorbworld/insta-auto-extension/archive/36d71e2f6ccd3a015b62435ec943cadaa1e36b24.zip) |
-| Insta Auto SaaS | Instagram management software — release pending |
-| [Rolezin Frontin](https://rolezinfrontin.lovable.app/) | Local tourism and digital discovery — client project |
-| [Ribeiro Marketing](https://www.instagram.com/ribeiromarketingltda/) | Digital solutions and web projects |
+Desenvolvo e exploro soluções digitais, ferramentas de software e conceitos de inteligência artificial no Rio de Janeiro, Brasil, sob a identidade EDUARDORB WORLD.
+
+- [Portfólio profissional](https://eduardorbworld.github.io/eduardorbworld/) — disponível em português e inglês.
+- [Seguidores Locais](https://eduardorbworld.github.io/eduardorbworld/seguidores-locais.html) — extensão gratuita conforme sua licença, versão 1.1.2.
+- [WORLD AI](https://eduardorbworld.github.io/eduardorbworld/world-ai.html) — projeto de inteligência artificial pessoal em desenvolvimento.
+- [Agenda Ribeiro](https://eduardorbworld.github.io/eduardorbworld/insta-auto-saas.html) — projeto de planejamento editorial com edição pública prevista, ainda sem download.
+- [Rolezin Frontin](https://rolezinfrontin.lovable.app/) — demonstração pública de projeto comercial.
 
 ## Brand & engineering standards
 
@@ -58,14 +51,7 @@ A personal artificial intelligence system designed around an integrated workspac
 
 ## GitHub activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eduardorbworld&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&icon_color=38bdf8" alt="GitHub statistics" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorbworld&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" alt="Repository languages" width="43%"/>
-
-[View my contributions and repositories](https://github.com/eduardorbworld)
-
-</div>
+[Public repositories](https://github.com/eduardorbworld?tab=repositories) · [Portfolio checks](https://github.com/eduardorbworld/eduardorbworld/actions) · [Extension checks](https://github.com/eduardorbworld/insta-auto-extension/actions)
 
 ---
 
