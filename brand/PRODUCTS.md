@@ -7,6 +7,7 @@ Intelligence · Software · Innovation
 | Não Seguidores Free | Browser extension | v1.1.2 | [Documentation and download](https://github.com/eduardorbworld/insta-auto-extension) |
 | Insta Auto SaaS / Agenda Automação | Content planning | Public edition planned | No public download yet |
 | WORLD AI | Personal AI research and development | In development | [Concept and roadmap](../projects/world-ai.md) |
+| Euro Atlas | Travel planning | Private application | [Project overview](https://eduardorbworld.github.io/eduardorbworld/euro-atlas.html) |
 | Rolezin Frontin | Client website | Live demonstration | [Website only](https://rolezinfrontin.lovable.app/) |
 
 EDUARDORB WORLD is the umbrella identity for independent technology projects. Client branding remains distinct. A planned feature must never be advertised as implemented. Public demonstrations do not imply public source code.
