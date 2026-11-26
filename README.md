@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**eduardorbworld/eduardorbworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.svg" alt="Eduardo Ribeiro — AI, software development and automation" width="100%"/>
 
-Here are some ideas to get you started:
+[![YouTube](https://img.shields.io/badge/YouTube-EDUARDORBworld-0d1117?style=for-the-badge&logo=youtube&logoColor=FF4444)](https://www.youtube.com/@eduardorbworld)
+[![Instagram](https://img.shields.io/badge/Instagram-eduardorb1__-0d1117?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/eduardorb1_/)
+[![GitHub](https://img.shields.io/badge/GitHub-eduardorbworld-0d1117?style=for-the-badge&logo=github)](https://github.com/eduardorbworld)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About me
+
+Based in Rio de Janeiro, Brazil, I build and explore AI-powered tools, web experiences and automation. My focus is turning ideas into practical digital solutions while continuously learning and experimenting with new technologies.
+
+## Current project — WORLD AI
+
+![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-2563EB?style=flat-square)
+
+A personal artificial intelligence system designed around an integrated workspace, voice interaction, memory and automation.
+
+| Area | Development focus |
+| --- | --- |
+| Intelligence | AI-assisted workflows and contextual memory |
+| Interface | Integrated workspace and voice interaction |
+| Automation | Task orchestration and productivity |
+| Architecture | Modular and extensible systems |
+
+## Technologies & interests
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=38BDF8)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-0d1117?style=for-the-badge&logo=openai&logoColor=38BDF8)
+
+## Featured projects
+
+| Project | Description |
+| --- | --- |
+| WORLD AI | Personal AI system — in development |
+| [Rolezin Frontin](https://github.com/eduardorbworld/rolezinfrontin) | Local tourism and digital discovery |
+| [Ribeiro Marketing](https://www.instagram.com/ribeiromarketingltda/) | Digital solutions and web projects |
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eduardorbworld&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&icon_color=38bdf8" alt="GitHub statistics" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorbworld&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" alt="Repository languages" width="43%"/>
+
+[View my contributions and repositories](https://github.com/eduardorbworld)
+
+</div>
+
+---
+
+<div align="center"><sub>Always learning. Always building. Always exploring.</sub></div>
