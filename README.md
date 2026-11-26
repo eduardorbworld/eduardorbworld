@@ -52,6 +52,10 @@ A personal artificial intelligence system designed around an integrated workspac
 | [Rolezin Frontin](https://rolezinfrontin.lovable.app/) | Local tourism and digital discovery — client project |
 | [Ribeiro Marketing](https://www.instagram.com/ribeiromarketingltda/) | Digital solutions and web projects |
 
+## Brand & engineering standards
+
+[Product catalog](./brand/PRODUCTS.md) · [Design system](./brand/DESIGN-SYSTEM.md) · [Release standard](./brand/RELEASE-STANDARD.md) · [Documentation standard](./brand/DOCUMENTATION-STANDARD.md)
+
 ## GitHub activity
 
 <div align="center">
