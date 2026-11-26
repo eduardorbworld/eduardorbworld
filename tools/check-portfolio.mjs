@@ -3,7 +3,7 @@ import path from 'node:path';
 import {spawnSync} from 'node:child_process';
 const root=path.resolve('docs');
 const base='https://eduardorbworld.github.io/eduardorbworld/';
-const pages=['index.html','seguidores-locais.html','world-ai.html','insta-auto-saas.html','404.html','novidades.html'];
+const pages=['index.html','seguidores-locais.html','world-ai.html','insta-auto-saas.html','404.html','novidades.html','euro-atlas.html'];
 let errors=0;
 function check(ok,message){if(!ok){console.error(message);errors++}}
 const documents=new Map();
@@ -22,6 +22,7 @@ for(const file of pages){
   check(html.includes('name="description"'),file+': missing description');
  }else check(html.includes('noindex'),file+': error page should not be indexed');
  check(!html.includes('github.com/eduardorbworld/rolezinfrontin'),file+': private client repository linked');
+ check(!html.toLowerCase().includes('github.com/eduardorbworld/euro-atlas-'),file+': private Euro Atlas repository linked');
  for(const m of html.matchAll(/<script(\s[^>]*)?>([\s\S]*?)<\/script>/g)){
   if(/type="application\/ld\+json"/.test(m[1]||"")){try{JSON.parse(m[2])}catch{check(false,file+': invalid JSON-LD')}continue}
   const r=spawnSync(process.execPath,['--check'],{input:m[2],encoding:'utf8'});
@@ -45,4 +46,4 @@ check(documents.get('index.html')?.html.includes('id="lang-toggle"'),'Missing la
 const sitemap=fs.existsSync(path.join(root,'sitemap.xml'))?fs.readFileSync(path.join(root,'sitemap.xml'),'utf8'):'';
 for(const file of pages.filter(f=>f!=='404.html'))check(sitemap.includes('<loc>'+base+(file==='index.html'?'':file)+'</loc>'),'Missing sitemap entry '+file);
 check(!sitemap.includes('404.html'),'Error page included in sitemap');
-if(errors)process.exitCode=1;else console.log('Static checks passed for all six HTML pages. Browser validation still required.');
+if(errors)process.exitCode=1;else console.log('Static checks passed for all seven HTML pages. Browser validation still required.');
