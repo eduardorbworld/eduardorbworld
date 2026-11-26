@@ -45,7 +45,7 @@ A personal artificial intelligence system designed around an integrated workspac
 | Project | Description |
 | --- | --- |
 | [WORLD AI](./projects/world-ai.md) | Personal AI system — in development |
-| [Rolezin Frontin](https://github.com/eduardorbworld/rolezinfrontin) | Local tourism and digital discovery |
+| Rolezin Frontin | Local tourism and digital discovery — client project |
 | [Ribeiro Marketing](https://www.instagram.com/ribeiromarketingltda/) | Digital solutions and web projects |
 
 ## GitHub activity
